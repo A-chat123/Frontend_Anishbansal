@@ -1,0 +1,30 @@
+body{
+  background-color: burlywood;
+}
+div h1{
+color: rgb(4, 161, 161);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+display:flex;
+justify-content: center;
+
+
+}
+.ul{
+   font-style: italic; 
+   font-size: x-large;
+  
+
+  
+}
+
+#movie3:hover{
+  color: rgb(7, 134, 92);
+  cursor: pointer;
+  padding: 5px;
+  font-weight: bolder;
+ }
+
+
+
+
